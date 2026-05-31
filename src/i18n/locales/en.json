@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "resources": "Resources",
+    "operation": "How it Works",
+    "skills": "Skills",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "login": "Sign In",
+    "register": "Get Started"
+  },
+  "hero": {
+    "badge": "Volume analysis by muscle group",
+    "title_part_1": "Train with",
+    "title_italic_1": "purpose",
+    "title_part_2": "Evolve with",
+    "title_italic_2": "data",
+    "description": "Fity.ness is the workout app for those who want to stop guessing and start progressing. Log sets in seconds, track PRs automatically, and build the habit that takes you to the next level.",
+    "footer_info": "No credit card required • Cancel anytime"
+  },
+  "buttons": {
+    "start_free": "Start for free",
+    "already_have_account": "Already have an account",
+    "create_account": "Create account now",
+    "start_free_now": "Start free now"
+  },
+  "features": {
+    "unlimited_workouts_title": "Unlimited workouts",
+    "unlimited_workouts_description": "Create as many workouts as you want, with customizable exercises, sets, and rest times.",
+    "automatic_prs_title": "Automatic PRs",
+    "automatic_prs_description": "Your personal records are automatically detected during every session.",
+    "volume_by_group_title": "Volume by muscle group",
+    "volume_by_group_description": "See exactly how much volume each muscle group receives over time.",
+    "fast_to_use_title": "Fast and efficient",
+    "fast_to_use_description": "Log sets in seconds during your workout. No distractions, just focus on what matters."
+  },
+  "resources": {
+    "badge": "Features",
+    "title_part_1": "Everything you need.",
+    "title_part_2": "Nothing you don't.",
+    "custom_workouts_title": "Tailored workouts",
+    "custom_workouts_description": "Create personalized routines by muscle group, with customizable sets, reps, and rest times.",
+    "real_progress_title": "Real progress",
+    "real_progress_description": "Volume charts, automatic PRs, and week-over-week comparisons to visualize your evolution.",
+    "smart_schedule_title": "Smart schedule",
+    "smart_schedule_description": "Schedule recurring workouts. Easily organize your routine week by week.",
+    "drilldown_history_title": "Drill-down history",
+    "drilldown_history_description": "Everything grouped by workout: best volume, last session, and a complete history timeline.",
+    "deep_analytics_title": "Deep analytics",
+    "deep_analytics_description": "Volume by muscle group, frequency, and total tonnage all in one place.",
+    "no_ads_title": "Ad-free experience",
+    "no_ads_description": "Clean interface, no ads, no noise. Just you and your data."
+  },
+  "operation": {
+    "badge": "How it works",
+    "title_part_1": "Three steps.",
+    "title_italic": "Zero friction.",
+    "description": "From your first login to your first PR in less than a week. Fity.ness was built to stay out of your way.",
+    "step_1_title": "Build your workout",
+    "step_1_description": "Add exercises, sets, and weights. Save templates to reuse whenever you want.",
+    "step_2_title": "Log every set",
+    "step_2_description": "Log weight and reps in seconds during your workout. No distractions, just focus on what matters.",
+    "step_3_title": "Evolve with data",
+    "step_3_description": "See PRs, volume, and trends. Adjust your routine based on facts, not guesswork."
+  },
+  "skills": {
+    "badge": "Who it's for",
+    "title_part_1": "Built for those who train.",
+    "title_italic": "No matter how.",
+    "hypertrophy_title": "Hypertrophy",
+    "hypertrophy_description": "Track weekly volume by muscle group and adjust your split to maximize gains.",
+    "strength_title": "Strength",
+    "strength_description": "Monitor PRs for each exercise and progress intelligently based on data.",
+    "endurance_title": "Endurance",
+    "endurance_description": "Log time under tension, sets, and weight progression over the weeks."
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title_part_1": "Frequently asked",
+    "title_part_2": "questions.",
+    "support_text": "Can't find your question?",
+    "support_link": "Get in touch with us.",
+    "q1": "Do I need to pay to use it?",
+    "a1": "No. Fity.ness is 100% free. All features — workouts, history, schedule, and progress tracking — are available at no cost.",
+    "q2": "Are there any ads?",
+    "a2": "No. The interface is clean, completely ad-free, and has no pop-ups.",
+    "q3": "Is it suitable for beginners?",
+    "a3": "Yes. The interface was designed to be intuitive from the first use, allowing anyone to create and organize their workouts quickly and easily.",
+    "q4": "Do I need an internet connection to use it?",
+    "a4": "Yes. Fity.ness is a web app and requires a connection to log and sync your data.",
+    "q5": "What happens to my data if I stop using the app?",
+    "a5": "Your data remains securely saved in case you decide to come back. If you prefer, you can also request the permanent and definitive deletion of your account and workout history."
+  },
+  "footer": {
+    "title_part_1": "Your next PR",
+    "title_italic": "starts today.",
+    "description": "Stop guessing and start progressing. Fity.ness is free to start.",
+    "badge_minimalist": "Minimalist Interface",
+    "badge_no_ads": "Ad-Free",
+    "badge_free": "100% Free"
+  }
+}

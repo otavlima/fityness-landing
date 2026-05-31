@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "resources": "Recursos",
+    "operation": "Como funciona",
+    "skills": "Habilidades",
+    "contact": "Contato",
+    "faq": "FAQ",
+    "login": "Entrar",
+    "register": "Registrar"
+  },
+  "hero": {
+    "badge": "Análise de volume por grupo muscular",
+    "title_part_1": "Treine com",
+    "title_italic_1": "propósito",
+    "title_part_2": "Evolua com",
+    "title_italic_2": "dados",
+    "description": "O Fity.ness é o app de treino para quem quer parar de adivinhar e começar a progredir. Registre séries em segundos, veja PRs automaticamente e mantenha o hábito que te leva ao próximo nível.",
+    "footer_info": "Sem cartão de crédito • Cancele quando quiser"
+  },
+  "buttons": {
+    "start_free": "Começar grátis",
+    "already_have_account": "Já tenho conta",
+    "create_account": "Criar conta agora",
+    "start_free_now": "Começar grátis agora"
+  },
+  "features": {
+    "unlimited_workouts_title": "Treinos ilimitados",
+    "unlimited_workouts_description": "Crie quantos treinos quiser, com exercícios, séries e descanso configuráveis.",
+    "automatic_prs_title": "PRs automáticos",
+    "automatic_prs_description": "Seus recordes pessoais são detectados automaticamente a cada sessão.",
+    "volume_by_group_title": "Volume por grupo",
+    "volume_by_group_description": "Veja exatamente quanto volume cada grupo muscular recebe ao longo do tempo.",
+    "fast_to_use_title": "Rápido de usar",
+    "fast_to_use_description": "Registre séries em segundos durante o treino. Sem distração, foco no que importa."
+  },
+  "resources": {
+    "badge": "Recursos",
+    "title_part_1": "Tudo que você precisa.",
+    "title_part_2": "Nada que você não precisa.",
+    "custom_workouts_title": "Treinos sob medida",
+    "custom_workouts_description": "Crie rotinas personalizadas por grupo muscular, com séries, repetições e descanso configuráveis.",
+    "real_progress_title": "Progresso real",
+    "real_progress_description": "Gráficos de volume, PRs automáticos e comparação semana a semana para você ver a evolução.",
+    "smart_schedule_title": "Agenda inteligente",
+    "smart_schedule_description": "Agende treinos com recorrência. Organize sua rotina semana a semana.",
+    "drilldown_history_title": "Histórico drill-down",
+    "drilldown_history_description": "Tudo agrupado por treino: melhor volume, último treino e timeline completa de cada sessão.",
+    "deep_analytics_title": "Análises profundas",
+    "deep_analytics_description": "Volume por grupo, frequência e tonelagem total em um só lugar.",
+    "no_ads_title": "Sem propagandas",
+    "no_ads_description": "Interface limpa, sem anúncios, sem ruído. Só você e seus dados."
+  },
+  "operation": {
+    "badge": "Como funciona",
+    "title_part_1": "Três passos.",
+    "title_italic": "Zero fricção.",
+    "description": "Do primeiro login ao primeiro PR em menos de uma semana. O Fity.ness foi desenhado para sair do seu caminho.",
+    "step_1_title": "Monte seu treino",
+    "step_1_description": "Adicione exercícios, séries e cargas. Salve templates para reusar quando quiser.",
+    "step_2_title": "Registre cada série",
+    "step_2_description": "Logue peso e reps em segundos durante o treino. Sem distração, foco no que importa.",
+    "step_3_title": "Evolua com dados",
+    "step_3_description": "Veja PRs, volume e tendências. Ajuste a rotina com base em fatos, não em achismo."
+  },
+  "skills": {
+    "badge": "Para quem é",
+    "title_part_1": "Feito para quem treina.",
+    "title_italic": "De qualquer jeito.",
+    "hypertrophy_title": "Hipertrofia",
+    "hypertrophy_description": "Acompanhe volume semanal por grupo muscular e ajuste seu split para maximizar ganhos.",
+    "strength_title": "Força",
+    "strength_description": "Monitore PRs em cada exercício e progrida de forma inteligente com base nos dados.",
+    "endurance_title": "Resistência",
+    "endurance_description": "Registre tempo sob tensão, séries e progressão de cargas ao longo das semanas."
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title_part_1": "Perguntas",
+    "title_part_2": "frequentes.",
+    "support_text": "Não achou sua dúvida?",
+    "support_link": "Fale com a gente.",
+    "q1": "Preciso pagar para usar?",
+    "a1": "Não. O Fity.ness é 100% gratuito. Todas as funcionalidades — treinos, histórico, agenda e progresso estão disponíveis sem custo.",
+    "q2": "Tem anúncios?",
+    "a2": "Não. A interface é limpa, sem propagandas e sem pop-ups.",
+    "q3": "Serve para quem está começando?",
+    "a3": "Sim. A interface foi desenhada para ser intuitiva desde o primeiro uso, permitindo que qualquer pessoa monte e organize seus treinos de forma rápida e prática.",
+    "q4": "Preciso de internet para usar?",
+    "a4": "Sim. O Fity.ness é um app web e precisa de conexão para registrar e sincronizar seus dados.",
+    "q5": "O que acontece com meus dados se eu parar de usar?",
+    "a5": "Seus dados permanecem salvos com segurança caso decida voltar. Se preferir, você também pode solicitar a exclusão permanente de toda a sua conta e histórico de maneira definitiva."
+  },
+  "footer": {
+    "title_part_1": "Seu próximo PR",
+    "title_italic": "começa hoje.",
+    "description": "Pare de adivinhar e comece a progredir. O Fity.ness é gratuito para começar.",
+    "badge_minimalist": "Interface Minimalista",
+    "badge_no_ads": "Sem Propagandas",
+    "badge_free": "100% Gratuito"
+  }
+}

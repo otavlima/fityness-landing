@@ -1,11 +1,11 @@
-import { Button } from "./components/ui/button"
+import Container from "./components/Container"
+import Home from "./pages/Home"
 
-function App() {
-
+const App = () => {
   return (
-    <>
-     <Button>Oi</Button>
-    </>
+    <Container>
+      <Home />
+    </Container>
   )
 }
 

@@ -1,73 +1,35 @@
-# React + TypeScript + Vite
+# Fity.ness Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An ultra-minimalist, high-performance landing page built for the **Fity.ness** ecosystem. It features a premium black-and-white aesthetic, strict Shadcn/v4 token integration, and fluid, native CSS stacking animations.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tech Stack
 
-## React Compiler
+* **React** (TypeScript)
+* **Tailwind CSS** (v4 ready)
+* **Shadcn/ui** (Core primitives)
+* **Lucide React** (Iconography)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 💎 Key Features
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+* **Mesh Grid Hero:** A mathematical background grid built with native CSS gradients and radial masking to focus attention on the main value proposition.
+* **Sticky Stacking Cards (`Operation.tsx`):** A frictionless 3-step onboarding showcase where cards stack natively via CSS `sticky` layout during scroll, keeping the contextual header pinned on the left.
+* **Target Focus Grid (`Skills.tsx`):** Clean, structural grid displaying specific training pillars (Hypertrophy, Strength, and Endurance).
+* **Borderless FAQ (`Questions.tsx`):** An elegant, wide-typography accordion component with all borders removed, displaying the most critical answer open by default.
+* **Inverted Premium Footer:** A full-width `foreground` background section that mirrors the Hero's mesh grid layout in a striking, high-contrast inverted style.
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+---
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## 📂 Component Structure
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+```bash
+src/
+├── components/
+│   ├── Hero.tsx         # Main entry section with the mesh grid background
+│   ├── Operation.tsx    # Native stacking scroll effect (3 steps)
+│   ├── Skills.tsx       # Training objectives grid
+│   ├── Questions.tsx    # Borderless, high-impact FAQ accordion
+│   └── Footer.tsx       # Inverted full-width call-to-action & links
