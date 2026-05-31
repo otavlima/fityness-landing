@@ -24,7 +24,7 @@ export default function Skills() {
   ];
 
   return (
-    <div className="min-h-screen min-w-full flex items-center justify-center bg-background text-foreground px-4 sm:px-6 lg:px-8">
+    <div className="min-h-screen py-16 min-w-full flex items-center justify-center bg-background text-foreground px-4 sm:px-6 lg:px-8">
       <section className="max-w-6xl mx-auto space-y-12 text-center">
         <div className="space-y-4 max-w-2xl mx-auto">
           <span className="inline-block text-xs font-medium uppercase tracking-wider bg-muted text-muted-foreground px-3 py-1 rounded-full border border-border">
