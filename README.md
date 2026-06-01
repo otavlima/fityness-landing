@@ -33,3 +33,6 @@ src/
 │   ├── Skills.tsx       # Training objectives grid
 │   ├── Questions.tsx    # Borderless, high-impact FAQ accordion
 │   └── Footer.tsx       # Inverted full-width call-to-action & links
+```
+# Deploy Link
+https://about-fityness.vercel.app
